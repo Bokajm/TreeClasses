@@ -41,4 +41,4 @@ Pień i gałęzie mają dwie fazy wzrostu - zaczynają rosnąć z pewną prędko
 - Conifer oraz LeafyTree - właściwe klasy drzew, dziedziczą po swoich odpowiednich abstrakcjach, odpowiadają za przykłady konkretnych gatunków dla drzew iglastych i liściastych, tworzą drzewo ze zdefiniowanymi parametrami wzrostu, umożliwiając instancjonowanie obiektu drzewa bez konieczności ich podawania; klasa LeafyTree implementuje dodatkowo cykl zachowania drzewa
 
 Klasa **TreeClassesApplication** umożliwia szybkie przetestowanie działania, pozwala na wybór rodzaju drzewa oraz manualnego lub automatycznego wywoływania metody wzrostu. <br>
-Zmiany w elementach trzewa można zaobserwować na konsoli.
+Zmiany w elementach drzewa można zaobserwować na konsoli.
